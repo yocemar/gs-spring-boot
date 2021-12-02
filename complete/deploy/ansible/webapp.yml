@@ -23,5 +23,5 @@
           number_of_workers: 1
         frameworks:
           - name: "node"
-            version: "14.0"
+            version: "14"
           
